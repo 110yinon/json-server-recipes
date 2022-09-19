@@ -38,27 +38,19 @@
       "cookingTime": "35 minutes"
     },
     {
-      "id": "4",
-      "title": "Humus",
-      "ingredients": [
-        "1 Onion",
-        "1 Block of Feta",
-        "Olives",
-        "Tomatoes",
-        "Olive Oil"
-      ],
-      "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
-      "cookingTime": "35 minutes"
-    },
-    {
       "id": "6561",
       "title": "Falafel",
       "ingredients": [
-        "1kg humus, 1 onion",
-        "garlic"
+        "1kg of soaked humus",
+        "1 onion",
+        "5-6 garlic cloves",
+        "handful of parsley",
+        "handful of coriander",
+        "spoon of cumin",
+        "salt and pepper"
       ],
-      "method": "blend evertyng, form it to balls and fry",
-      "cookingTime": "17"
+      "method": "Grind everything together, roll into a balls shape and deep fry it",
+      "cookingTime": "15 minutes"
     }
   ]
 }
